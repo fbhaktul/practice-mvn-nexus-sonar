@@ -11,9 +11,6 @@ public class DemoApplication {
 
 		String name = "Gulam";
 		System.out.println(name);
-
-		Integar age = "20";
-		System.out.println(age + 5);
 	}
 
 }
